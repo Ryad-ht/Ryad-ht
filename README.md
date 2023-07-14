@@ -8,8 +8,6 @@
 
 💻 I have experience coding in both Java and Python.
 
-🖥️ For Java development, I use IntelliJ as my preferred IDE, while for Python, I work with Jupyter notebooks.
-
 📫 You can reach me via email at hadjtahar.ryad@gmail.com.
 
 Let me know if there's anything else I can help you with!
