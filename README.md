@@ -1,9 +1,15 @@
 👋 Hi, I’m @Ryad-ht, a student specializing in Data Analysis.
+
 👀 I’m interested in Data Analysis and currently focusing on Deep Learning, particularly Python libraries such as NumPy, Matplotlib, and Pandas.
+
 🌱 I’m actively learning and expanding my knowledge in these areas.
+
 💞️ I’m looking to collaborate on AI projects and open-source initiatives related to data analysis and machine learning.
+
 💻 I have experience coding in both Java and Python.
+
 🖥️ For Java development, I use IntelliJ as my preferred IDE, while for Python, I work with Jupyter notebooks.
+
 📫 You can reach me via email at hadjtahar.ryad@gmail.com.
 
 Let me know if there's anything else I can help you with!
