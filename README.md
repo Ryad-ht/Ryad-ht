@@ -1,4 +1,4 @@
-👋 Hello, I am @Ryad-ht, a data analyst.
+👋 Hello, I am @Ryad-ht, a data analyst & vibe coding 
 
 I am currently working on case studies by myself and I am open to freelance or employment opportunities.
 
