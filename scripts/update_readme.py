@@ -26,6 +26,3 @@ You can contact me via email at hadjtahar.ryad@gmail.com."""
 
 if __name__ == "__main__":
     update_readme()
-
-Clique sur **"Commit new file"**
-
