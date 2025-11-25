@@ -29,15 +29,3 @@ if __name__ == "__main__":
 
 Clique sur **"Commit new file"**
 
-
-1. Va dans **Settings** (paramètres de ton repo)
-2. Dans le menu de gauche, clique sur **Actions** → **General**
-3. Dans "Actions permissions", sélectionne **"Allow all actions and reusable workflows"**
-4. Dans "Workflow permissions", sélectionne **"Read and write permissions"**
-5. Clique sur **Save**
-
-
-1. Va dans l'onglet **Actions** de ton repo
-2. Clique sur **"Update README"** dans la liste des workflows
-3. Clique sur **"Run workflow"** → **"Run workflow"**
-4. Attends 30 secondes, le workflow va s'exécuter
