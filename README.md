@@ -7,4 +7,5 @@ Programming languages: Python, R, SQL, VBA, Java, C, C++, JavaScript, Swift, PHP
 Software: Tableau, Orange, Power BI, Excel, PyCharm, Jupyter Notebook, IntelliJ, RStudio, Eclipse.
  
 You can contact me via email at hadjtahar.ryad@gmail.com.
+
  
