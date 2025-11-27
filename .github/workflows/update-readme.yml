@@ -1,13 +1,9 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: '0 8 * * *'   # 8h UTC
-    - cron: '30 11 * * *' # 11h30 UTC
-    - cron: '0 14 * * *'  # 14h UTC
-    - cron: '30 17 * * *' # 17h30 UTC
-    - cron: '0 21 * * *'  # 21h UTC
   workflow_dispatch:
+  repository_dispatch:
+    types: [update-readme-event]
 
 jobs:
   update-readme:
@@ -41,3 +37,4 @@ jobs:
           git commit -m "🤖 Auto-update README"
           git push
         fi
+```
